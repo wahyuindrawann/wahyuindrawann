@@ -1,5 +1,15 @@
 ## Hi there 👋
+**Who I am**  
+I'm Wahyu, a full stack web developer who enjoys building clean and functional web applications.
 
+**Currently working on**  
+Building and improving web projects, focusing on real-world features and better user experience.
+
+**Tools I use**  
+JavaScript, React, Node.js, Express, PostgreSQL, HTML, CSS
+
+**How to reach me**  
+Email: wahyuindrawan13345@gmail.com  
 <!--
 **wahyuindrawann/wahyuindrawann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
